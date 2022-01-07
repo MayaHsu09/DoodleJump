@@ -1,11 +1,10 @@
 <h1 align="center">Welcome to Doodle Jump! 👋</h1>
-By: Maya and Swasti
 <p align="center">
  
 ## Game Description
 
-`Doodle Jump` uses the space bar and the right and left arrow key to control the character. The objective is to play for as long as you can, 
-jumping off of platforms, until you miss and fall. This game can be played by anyone and is very simple. Enjoy!
+`Doodle Jump` uses the space bar to start the game and the right and left arrow key to control the character. The objective is to play for as long as you can, 
+jumping off of platforms. However, if you jump on a red platform, you instantly lose the game. Each time you jump to a new platform, 5 points are added to the score. When you miss the platform and fall your score and position is reset.  This game can be played by anyone and is very simple. Enjoy!
 
 <p align="center">
   <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
